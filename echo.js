@@ -11,7 +11,7 @@ const echo = () => {
     rl.question('Say something:\n', (answer) => {
       if (answer === 'exit') return rl.close();
       console.log(
-      `${moment().format('YYYY-MM-DD')} | ${moment().format('LT').slice(0, -2)} | You said: '${answer}'`
+      `${moment().format('YYYY-MM-DD')} | ${moment().format('LT').slice(0, -2)}| You said: '${answer}'`
       );
       repeatedQuestion();
     });
@@ -22,7 +22,8 @@ const echo = () => {
     process.exit();
   });
 
-  repeatedAsyncQuestion();
+  repeatedQuestion();
 };
 
 echo();
+
