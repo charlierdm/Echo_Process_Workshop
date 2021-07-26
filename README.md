@@ -31,4 +31,5 @@ Goodbye!
 
 #### Screenshot of echo.js output: 
 
-![node_echo](https://user-images.githubusercontent.com/75075773/126994026-5a893c44-0a1e-4752-a3de-4ac3f20dd3d1.png)
+![node_echo](https://user-images.githubusercontent.com/75075773/126995786-720f9415-441f-4f35-ac64-e1f22e0e5ba9.png)
+
