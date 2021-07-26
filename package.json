@@ -1,0 +1,23 @@
+{
+  "name": "echo_process_workshop",
+  "version": "1.0.0",
+  "description": "An app that repeats what you say until you exit it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlierdm/echo_process_workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlierdm/echo_process_workshop/issues"
+  },
+  "homepage": "https://github.com/charlierdm/echo_process_workshop#readme",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "moment": "^2.29.1"
+  }
+}
